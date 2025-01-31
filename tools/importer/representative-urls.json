@@ -1,0 +1,15 @@
+{
+  "originUrl": "https://www.ingredion.com/na/en-us.html",
+  "totalUrls": 0,
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "logger": {}
+  },
+  "method": "SITEMAP"
+}
