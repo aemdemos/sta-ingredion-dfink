@@ -1,0 +1,301 @@
+{
+  "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/resource-library/wild-berry-flavored-beverage.html",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]\n  - /html[1]/body[1]/div[1]/header[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/header[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/header[1]/div[1]/nav[1]\n  /html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/h3[1]\n  /html[1]/body[1]/div[2]/div[1]/div[2]\n  - /html[1]/body[1]/div[2]/div[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[2]/div[1]/div[2]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[3]/div[1]/div[1]/div[1]\n  /html[1]/body[1]/div[2]/div[1]/div[3]\n  - /html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[2]\n  /html[1]/body[1]/div[2]/div[1]/div[4]\n  - /html[1]/body[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]\n  - /html[1]/body[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[2]\n  /html[1]/body[1]/div[3]\n  - /html[1]/body[1]/div[3]/div[1]/footer[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/footer[1]/div[3]",
+    "hash": -117861600
+  },
+  "pageHeight": 4103,
+  "mapping": [
+    {
+      "id": 1,
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id--1102402302",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 211,
+              "xpath": "/html[1]/body[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/div[@class=\"header headerReference\"]/header[@class=\"header\"]/div[@class=\"header__wrapper\"]/div[@class=\"utility-nav\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/div[@class=\"header headerReference\"]/header[@class=\"header\"]/div[@class=\"header__wrapper\"]/div[@class=\"nav-logo-search-cta\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/nav[1]",
+                  "xpathWithDetails": "/div[@class=\"header headerReference\"]/header[@class=\"header\"]/div[@class=\"header__wrapper\"]/nav[@class=\"nav-categories\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 1,
+                "numRows": 3
+              },
+              "x": 0,
+              "y": 0,
+              "mapping": "header",
+              "customBlockName": "aiheader"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "path": "/na/en-us/solving-a-challenge/resource-library/wild-berry-flavored-beverage",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-1381674866",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 587,
+              "height": 48,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/h3[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 28,
+              "y": 259,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            },
+            {
+              "id": "box-id-1159510725",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 587,
+              "height": 482,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 28,
+              "y": 267,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            },
+            {
+              "id": "box-id-1159510756",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 587,
+              "height": 482,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"overview\")/div[@class=\"formulation-header__image\"]/div[@class=\"image-slider\"]/div[@class=\"image-slider__wrapper slick-initialized slick-slider\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"overview\")/div[@class=\"formulation-header__image\"]/div[@class=\"image-slider\"]/div[@class=\"image-slider__slider slick-initialized slick-slider\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 664,
+              "y": 267,
+              "mapping": "columns",
+              "customBlockName": "aicolumns"
+            },
+            {
+              "id": "box-id-340295168",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 140,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 632,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            },
+            {
+              "id": "box-id--83237627",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 280,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 632,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            },
+            {
+              "id": "box-id-398562738",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 803,
+              "height": 64,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 238,
+              "y": 949,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            },
+            {
+              "id": "box-id-398562769",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1224,
+              "height": 1720,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"ingredients-listing-table\")/div[@class=\"ingredients-table__wrapper\"]/div[@class=\"ingredients-table__contentWrapper\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"ingredients-listing-table\")/div[@class=\"ingredients-table__wrapper\"]/div[@class=\"ingredients-table__contentWrapper\"]/div[@class=\"ingredients-table__preparations\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 28,
+              "y": 1069,
+              "mapping": "columns",
+              "customBlockName": "aicolumns"
+            },
+            {
+              "id": "box-id--707633573",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 803,
+              "height": 48,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 238,
+              "y": 3109,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            },
+            {
+              "id": "box-id--707633542",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1224,
+              "height": 291,
+              "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"related-ingredients\")/section[@class=\"section\"]/div[@class=\"section__content\"]/div[@class=\"result-prod-card result-card product-details-holder\"]/div[@class=\"result-card__text ellipsisParent\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"related-ingredients\")/section[@class=\"section\"]/div[@class=\"section__content\"]/div[@class=\"result-prod-card result-card product-details-holder\"]/div[@class=\"result-card__buttons\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 28,
+              "y": 3197,
+              "mapping": "columns",
+              "customBlockName": "aicolumns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [
+            {
+              "id": "box-id-1650466882",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1162,
+              "height": 401,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/footer[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/footer[1]/div[2]/div[1]",
+                  "xpathWithDetails": "/div[@class=\"footer footerReference\"]/div[@class=\"footer\"]/footer[@class=\"footer__globalWrapper\"]/div[@class=\"footer__wrapper\"]/div[@class=\"footer__section footer__section--contact\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/footer[1]/div[2]/div[2]",
+                  "xpathWithDetails": "/div[@class=\"footer footerReference\"]/div[@class=\"footer\"]/footer[@class=\"footer__globalWrapper\"]/div[@class=\"footer__wrapper\"]/div[@class=\"footer__section--social\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/footer[1]/div[2]/div[3]",
+                  "xpathWithDetails": "/div[@class=\"footer footerReference\"]/div[@class=\"footer\"]/footer[@class=\"footer__globalWrapper\"]/div[@class=\"footer__wrapper\"]/div[@class=\"footer__section\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/footer[1]/div[2]/div[4]",
+                  "xpathWithDetails": "/div[@class=\"footer footerReference\"]/div[@class=\"footer\"]/footer[@class=\"footer__globalWrapper\"]/div[@class=\"footer__wrapper\"]/div[@class=\"footer__section\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 28,
+              "y": 3610,
+              "mapping": "columns",
+              "customBlockName": "aicolumns"
+            },
+            {
+              "id": "box-id-1650466913",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1224,
+              "height": 74,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/footer[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 28,
+              "y": 4011,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
