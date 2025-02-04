@@ -1,1454 +1,1829 @@
 {
   "originUrl": "https://www.ingredion.com",
-  "totalUrls": 2981,
+  "totalUrls": 2987,
   "urls": [
     {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/resource-library/wild-berry-flavored-beverage.html",
-      "repCount": 182
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/resource-library/artisan-white-bread.html",
-      "repCount": 122
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/resource-library/bioligo-gl-5700-imf-gos.html",
-      "repCount": 113
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/libreria-de-recursos/base-para-pizza.html",
-      "repCount": 97
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/resource-library/artisan-white-bread.html",
-      "repCount": 65
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/noticias-eventos/alianza-siembra-maiz-amarillo-2021.html",
-      "repCount": 59
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/news-events/news/profitable-processed-cheese-formulations-.html",
-      "repCount": 39
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/news-events/events/FIRST-2021-IFT-digital-experience.html",
-      "repCount": 35
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/news-events/news/ultratex-1311.html",
-      "repCount": 31
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/ingredientes/familia-de-productos/purecircle-clean-taste-solutions.html",
-      "repCount": 30
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/news-events/news/ingredion-expands-citrus-fibre-ingredients.html",
-      "repCount": 28
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/challenges/affordability.html",
-      "repCount": 26
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/challenges/clean-label-ingredients.html",
-      "repCount": 26
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/desafios/menos-azucares-mas-soluciones.html",
-      "repCount": 24
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges/Inflation.html",
-      "repCount": 24
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/solving-a-challenge/challenges/affordability.html",
-      "repCount": 24
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/solving-a-challenge/challenges/clean-label-ingredients.html",
-      "repCount": 23
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/desafios/saude-digestiva.html",
-      "repCount": 22
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/challenges/clean-label-ingredients.html",
-      "repCount": 22
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/be-whats-next/advancing-sustainability-in-2024.html",
-      "repCount": 21
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-product-families/fibertex-multi-benefit-fibres.html",
-      "repCount": 21
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-product-families/astraea-allulose.html",
-      "repCount": 20
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/be-whats-next/advancing-sustainability-in-2024.html",
-      "repCount": 20
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/be-whats-next/the-pursuit-of-health.html",
-      "repCount": 20
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-knowledge/butter-cookies.html",
-      "repCount": 20
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/biblioteca-de-recursos/refrigerante-de-laranja.html",
-      "repCount": 19
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-product-families/fibertex-multi-benefit-fibres.html",
-      "repCount": 19
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/biblioteca-de-contenidos/bebida-mixta-de-agua-de-coco-y-uva.html",
-      "repCount": 18
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/desafios/ingredientes-etiquetado-limpio.html",
-      "repCount": 17
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/news-events/news/purecircle-awarded-plant-breeders-rights-for-breakthrough-stevia-varietal.html",
-      "repCount": 17
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/be-whats-next/tendencias-de-preferencia-alimentar-dos-consumidores-2023.html",
-      "repCount": 16
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/executive-leadership-team/fernandes.html",
-      "repCount": 16
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/be-whats-next/2023-consumer-food-preference-trends.html",
-      "repCount": 16
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/be-whats-next/own-the-and.html",
-      "repCount": 15
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/desafios/Juntos-enfocados-en-cada-momento.html",
-      "repCount": 15
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/ingredientes/tipos-de-ingredientes/almidones.html",
-      "repCount": 15
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-product-families/fibertex-multi-benefit-fibres.html",
-      "repCount": 15
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/be-whats-next/the-pursuit-of-health.html",
-      "repCount": 15
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/allulose.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/executive-leadership-team/evans-licht.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/noticias-e-eventos/noticias/ingredion-brasil-ceo.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/edulcorantes.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/biblioteca-de-contenidos/bebida-mixta-de-agua-de-coco-y-uva.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/categories/food-ingredients/bakery.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/executive-leadership-team/evans-licht.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/executive-leadership-team/oriordan.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/allulose.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/executive-leadership-team/evans-licht.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/solving-a-challenge/resource-library/_.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-product-families/n-dulge-321.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/executive-leadership-team/oriordan.html",
-      "repCount": 14
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/executive-leadership-team/zallie1.html",
-      "repCount": 13
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/equipo-liderazgo-ejecutivo/wilson1.html",
-      "repCount": 13
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/noticias-y-eventos/noticias/todos_pertenecemos.html",
-      "repCount": 13
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/news-events/events/were-attending-snackex-2022.html",
-      "repCount": 13
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/categories/food-ingredients/baked-goods.html",
-      "repCount": 13
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/be-whats-next/the-pursuit-of-health.html",
-      "repCount": 13
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types/encapsulants-emulsifiers.html",
-      "repCount": 13
+      "url": "https://www.ingredion.com",
+      "source": "NAV"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/be-whats-next.html",
-      "repCount": 12
+      "source": "NAV"
     },
     {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/snacking-knowledge/muesli-cranberries-cookie.html",
-      "repCount": 12
+      "url": "https://www.ingredion.com/na/en-us/categories.html",
+      "source": "NAV"
     },
     {
-      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/edulcorantes.html",
-      "repCount": 12
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge.html",
+      "source": "NAV"
     },
     {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-knowledge/muesli-cranberries-cookie.html",
-      "repCount": 12
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-types/allulose.html",
-      "repCount": 12
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/be-whats-next/the-pursuit-of-health.html",
-      "repCount": 12
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/expertise/clean-and-simple-ingredients.html",
-      "repCount": 11
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking/snacking-inspiration/BUNETTE.html",
-      "repCount": 11
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/be-whats-next.html",
-      "repCount": 11
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/be-whats-next.html",
-      "repCount": 11
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/news-events/news/_.html",
-      "repCount": 11
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/be-whats-next.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/be-whats-next/universo-alternativo.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/be-whats-next.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/be-whats-next.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/be-whats-next.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/categories/food-ingredients/baked-goods.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/be-whats-next.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/executive-leadership-team/border1.html",
-      "repCount": 10
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/food/bakery.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/expertise/the-stevia-institute/what-is-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/legal/procurement-terms-and-conditions.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/compania/expertise/the-stevia-institute/what-is-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/institucional/expertise/instituto-da-stevia/o-que-e-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/be-whats-next.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/snacking/snacking-troubleshooting/grittiness-gluten-free-cookies.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/nuestra-experiencia/etiquetado-limpio-y-simple.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/nuestra-experiencia/instituto-stevia/que-es-la-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/be-whats-next.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/be-whats-next/blog/get-ready-to-go-organic.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/encapsulants-emulsifiers.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/expertise/the-stevia-institute/what-is-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/company/expertise/the-stevia-institute/what-is-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/expertise/the-stevia-institute/what-is-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/company/expertise/the-stevia-institute/what-is-stevia.html",
-      "repCount": 9
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/compania/expertise/the-stevia-institute.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/alimentos/panificacao.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-troubleshooting/reduce-breakage-and-improve-the-eating-experience.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/Ingredientes-por-familia/purecircle-clean-taste-solutions.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/institucional/expertise/instituto-da-stevia.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/legal/aviso-legal.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos/salsas-y-aderezos.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/legal/terminos-y-condiciones-del-sitio.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/categorias/alimentos/salsas-y-aderezos.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/innovacion-con-idea-labs/snacking/snacking-troubleshooting/grittiness-gluten-free-cookies.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo/encapsulantes-emulsificantes.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/nuestra-experiencia/starch-based-texturizers.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/legal/aviso-legal.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/categories/food-ingredients/baked-goods.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/categories/biomaterials/agriculture.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-troubleshooting/how-to-reduce-sugar-in-cookies-sweet-biscuits.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/expertise/clean-and-simple-ingredients.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/starches/mochitexture.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/news-events/events/innovative-solutions-formulation-challenges.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/news-events/news/stevianews1.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/categories/beverage-solutions/brewing-and-alcoholic-beverages.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/company/expertise/clean-and-simple-ingredients.html",
-      "repCount": 8
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/food.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/beauty-home/hair-care.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/biomaterials/agriculture.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/executive-leadership-team.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/categorias/alimentos.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/categorias/alimentos/carnicos.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/compania/carrera.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/alimentos.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/aplicacoes-industriais-biomateriais/agricultura.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/aplicaciones-industriales-y-biomateriales/agricultura.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/equipo-liderazgo-ejecutivo.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/categorias/alimentos.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/categories/beauty-home/hair-care.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/expertise/clean-and-simple-ingredients.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-product-families/hi-maize-resistant-starch.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/company/expertise/clean-and-simple-ingredients.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/categories/food-ingredients.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/news-events/events/better-snacking-from-day-to-night.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/categories/biomaterials/agriculture.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/ingredionjapan.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/categories/food-ingredients/baked-goods.html",
-      "repCount": 7
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/beverages/brewing-and-alcoholic-beverages.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/consumer-challenges.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/legal/terminos-y-condiciones.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/Integridade-etica-e-conformidade-nos-negocios/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/integridad-empresarial-etica-y-cumplimiento/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/noticias-y-eventos/eventos/ingredion-sa-colamiqc.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-troubleshooting/reduce-breakage-and-improve-the-eating-experience.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/corporate-responsibility.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/legal/terms-and-conditions.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/categories/beauty-home/bath-and-hygiene.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/executive-leadership-team.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/starches.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/aboutstevia/turnovernewleaf.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/aboutstevia/aboutstevia/aboutstevia.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/executive-leadership-team.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
-      "repCount": 6
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/snacking-inspiration/beet-crackers.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/snacking-troubleshooting/grittiness-gluten-free-cookies.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/categorias/bebidas/alternativas-lacteas.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/desafios/Juntos-enfocados-en-cada-momento/Cuando-su-rutina-comienza.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/ingredientes/familia-de-productos/purecircle-clean-taste-solutions/bakery.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/bebidas/cafes-e-chas.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/Ingredientes-por-familia/purecircle-clean-taste-solutions/bakery.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/executive-leadership-team.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/bebidas/cafes-y-tes.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo/edulcorantes/polioles.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/conoce-ingredion.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/conoce-ingredion/corporate-responsibility.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/categories/beauty-home.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges/sugar-reduction-specialty-sweeteners/taste-sweet-liberation-assets/Dairy-taste-sweet-liberation.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration/beet-crackers.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/categories/beverage-solutions/alcoholic-beverages.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/executive-leadership-team.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/categories/beverage-solutions/alcoholic-beverages.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration/beignets.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/categories/food-ingredients.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/company/expertise/clean-and-simple-ingredients.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion.html",
-      "repCount": 5
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/paper-corrugating/papermaking/board-solutions.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/challenges.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/starches/potato-starch.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/sweeteners/stevia.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/legal/procurement-terms-and-conditions/purchase-of-goods-us.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking/snacking-inspiration.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/diversity-equity-inclusion.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/cuidados-pessoais-e-da-casa/Cuidados-com-o-cabelo.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/papel-e-corrugado/papel/embalagens.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/desafios.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-inspiration.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-inspiration/Bolo-de-caneca.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/edulcorantes/stevia.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/cuidado-personal-y-del-hogar/Cuidados-del-cabello.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/papel-y-corrugado/papel/embalajes.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration/snack-salado-proteico.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/edulcorantes/polioles.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/almidones/almidon-de-papa.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-familia/enliten-reb-m.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration/snack-salado-proteico.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo/almidones/almidon-de-papa.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/categories/beverage-solutions/alcoholic-beverages.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/categories/food-ingredients.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/categories/beauty-home1/hair-care.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/aboutstevia/stevia-science-research/metabolism.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/ingredionjapan/_.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/categories/beverage-solutions.html",
-      "repCount": 4
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/food/dairy/yogurt-and-cultured-products.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/food/savory/soups-sauces-gravies.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/categories/paper-corrugating/oil-grease-resistant.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/expertise/food-service/cost-savings.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/company/suppliers/all-life-partners.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us/legal/sales-terms-and-conditions/sales-terms-and-conditions-us.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/desafios.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/ingredientes/tipos-de-ingredientes.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/es-mx/ingredientes/tipos-de-ingredientes/almidones/almidon-de-papa.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/alimentos/lacteos/queijos.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/categorias/papel-e-corrugado/corrugado.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/programa-catalyst.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/amidos/fecula-de-batata.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/pt-br/redirect-pages/redirect-sustainability-report-pdf.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos/lacteos/helados-postres-congelados.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/categorias/papel-y-corrugado/corrugado.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/desafios.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/Programa_CATALYST.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/desafios.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/sa/es-ar/noticias-y-eventos/noticias/ingredion-sa-colamiqc.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/flours/pulse-flours.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/starches/modified-starch.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/emea/en-uk/company/suppliers/all-life-partners.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/solving-a-challenge/challenges.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/sc-cn/solving-a-challenge/resource-library/trend-video-ltt-mochi.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/challenges.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/catalyst-programme.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/starches/functional-native-starches.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/sweeteners/non-nutritive.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-sg/company/suppliers/all-life-partners.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/categories/industrial-and-biomaterials/corrugating.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/solving-a-challenge/challenges.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/starches/starchbasic/nativestarch.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/challenges.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types/starches/potato-starch.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/apac/en-au/news-events/events/better-snacking-from-day-to-night.html",
-      "repCount": 3
-    },
-    {
-      "url": "https://www.ingredion.com/na/en-us.html",
-      "repCount": 2
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-finder.html",
+      "source": "NAV"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/news-events/news.html",
-      "repCount": 2
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/resource-library/wild-berry-flavored-beverage.html",
+      "repCount": 182,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/resource-library/artisan-white-bread.html",
+      "repCount": 122,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/resource-library/bioligo-gl-5700-imf-gos.html",
+      "repCount": 113,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/libreria-de-recursos/base-para-pizza.html",
+      "repCount": 97,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/resource-library/artisan-white-bread.html",
+      "repCount": 65,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/noticias-eventos/alianza-siembra-maiz-amarillo-2021.html",
+      "repCount": 59,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/news-events/news/profitable-processed-cheese-formulations-.html",
+      "repCount": 39,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/news-events/events/FIRST-2021-IFT-digital-experience.html",
+      "repCount": 35,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/news-events/news/ultratex-1311.html",
+      "repCount": 31,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/ingredientes/familia-de-productos/purecircle-clean-taste-solutions.html",
+      "repCount": 30,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/news-events/news/ingredion-expands-citrus-fibre-ingredients.html",
+      "repCount": 28,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/challenges/affordability.html",
+      "repCount": 26,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/challenges/clean-label-ingredients.html",
+      "repCount": 26,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/desafios/menos-azucares-mas-soluciones.html",
+      "repCount": 24,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges/Inflation.html",
+      "repCount": 24,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/solving-a-challenge/challenges/affordability.html",
+      "repCount": 24,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/solving-a-challenge/challenges/clean-label-ingredients.html",
+      "repCount": 23,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/desafios/saude-digestiva.html",
+      "repCount": 22,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/challenges/clean-label-ingredients.html",
+      "repCount": 22,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/be-whats-next/advancing-sustainability-in-2024.html",
+      "repCount": 21,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-product-families/fibertex-multi-benefit-fibres.html",
+      "repCount": 21,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-product-families/astraea-allulose.html",
+      "repCount": 20,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/be-whats-next/advancing-sustainability-in-2024.html",
+      "repCount": 20,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/be-whats-next/the-pursuit-of-health.html",
+      "repCount": 20,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-knowledge/butter-cookies.html",
+      "repCount": 20,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/biblioteca-de-recursos/refrigerante-de-laranja.html",
+      "repCount": 19,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/solving-a-challenge/resource-library/pulpytexturevideo.html",
+      "repCount": 19,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-product-families/fibertex-multi-benefit-fibres.html",
+      "repCount": 19,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/biblioteca-de-contenidos/bebida-mixta-de-agua-de-coco-y-uva.html",
+      "repCount": 18,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/desafios/ingredientes-etiquetado-limpio.html",
+      "repCount": 17,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/news-events/news/purecircle-awarded-plant-breeders-rights-for-breakthrough-stevia-varietal.html",
+      "repCount": 17,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/be-whats-next/tendencias-de-preferencia-alimentar-dos-consumidores-2023.html",
+      "repCount": 16,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/executive-leadership-team/fernandes.html",
+      "repCount": 16,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/be-whats-next/2023-consumer-food-preference-trends.html",
+      "repCount": 16,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/be-whats-next/own-the-and.html",
+      "repCount": 15,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/desafios/Juntos-enfocados-en-cada-momento.html",
+      "repCount": 15,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/ingredientes/tipos-de-ingredientes/almidones.html",
+      "repCount": 15,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-product-families/fibertex-multi-benefit-fibres.html",
+      "repCount": 15,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/be-whats-next/the-pursuit-of-health.html",
+      "repCount": 15,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/allulose.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/executive-leadership-team/evans-licht.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/noticias-e-eventos/noticias/ingredion-brasil-ceo.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/edulcorantes.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/biblioteca-de-contenidos/bebida-mixta-de-agua-de-coco-y-uva.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/categories/food-ingredients/bakery.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/executive-leadership-team/evans-licht.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/executive-leadership-team/oriordan.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/allulose.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/executive-leadership-team/evans-licht.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-product-families/n-dulge-321.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/executive-leadership-team/oriordan.html",
+      "repCount": 14,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/executive-leadership-team/zallie1.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/equipo-liderazgo-ejecutivo/wilson1.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/noticias-y-eventos/noticias/todos_pertenecemos.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/news-events/events/were-attending-snackex-2022.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/categories/food-ingredients/baked-goods.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/be-whats-next/the-pursuit-of-health.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types/encapsulants-emulsifiers.html",
+      "repCount": 13,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/snacking-knowledge/muesli-cranberries-cookie.html",
+      "repCount": 12,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/edulcorantes.html",
+      "repCount": 12,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/be-whats-next.html",
+      "repCount": 12,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-knowledge/muesli-cranberries-cookie.html",
+      "repCount": 12,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-types/allulose.html",
+      "repCount": 12,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/be-whats-next/the-pursuit-of-health.html",
+      "repCount": 12,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/expertise/clean-and-simple-ingredients.html",
+      "repCount": 11,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking/snacking-inspiration/BUNETTE.html",
+      "repCount": 11,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/be-whats-next.html",
+      "repCount": 11,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/news-events/news/_.html",
+      "repCount": 11,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/be-whats-next.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/be-whats-next/universo-alternativo.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/be-whats-next.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/be-whats-next.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/be-whats-next.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/categories/food-ingredients/baked-goods.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/be-whats-next.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/executive-leadership-team/border1.html",
+      "repCount": 10,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/food/bakery.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/expertise/the-stevia-institute/what-is-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/legal/procurement-terms-and-conditions.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/compania/expertise/the-stevia-institute/what-is-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/institucional/expertise/instituto-da-stevia/o-que-e-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/be-whats-next.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/snacking/snacking-troubleshooting/grittiness-gluten-free-cookies.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/nuestra-experiencia/etiquetado-limpio-y-simple.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/nuestra-experiencia/instituto-stevia/que-es-la-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/be-whats-next.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/be-whats-next/blog/get-ready-to-go-organic.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/encapsulants-emulsifiers.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/expertise/the-stevia-institute/what-is-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/company/expertise/the-stevia-institute/what-is-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/expertise/the-stevia-institute/what-is-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/company/expertise/the-stevia-institute/what-is-stevia.html",
+      "repCount": 9,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/compania/expertise/the-stevia-institute.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/alimentos/panificacao.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-troubleshooting/reduce-breakage-and-improve-the-eating-experience.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/Ingredientes-por-familia/purecircle-clean-taste-solutions.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/institucional/expertise/instituto-da-stevia.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/legal/aviso-legal.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos/salsas-y-aderezos.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/legal/terminos-y-condiciones-del-sitio.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/categorias/alimentos/salsas-y-aderezos.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/innovacion-con-idea-labs/snacking/snacking-troubleshooting/grittiness-gluten-free-cookies.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo/encapsulantes-emulsificantes.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/nuestra-experiencia/starch-based-texturizers.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/legal/aviso-legal.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/categories/food-ingredients/baked-goods.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/categories/biomaterials/agriculture.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-troubleshooting/how-to-reduce-sugar-in-cookies-sweet-biscuits.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/expertise/clean-and-simple-ingredients.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/starches/mochitexture.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/news-events/events/innovative-solutions-formulation-challenges.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/news-events/news/stevianews1.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/categories/beverage-solutions/brewing-and-alcoholic-beverages.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/company/expertise/clean-and-simple-ingredients.html",
+      "repCount": 8,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/food.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/beauty-home/hair-care.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/biomaterials/agriculture.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/executive-leadership-team.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/categorias/alimentos.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/categorias/alimentos/carnicos.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/compania/carrera.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/alimentos.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/aplicacoes-industriais-biomateriais/agricultura.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/aplicaciones-industriales-y-biomateriales/agricultura.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/equipo-liderazgo-ejecutivo.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/categorias/alimentos.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/categories/beauty-home/hair-care.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/expertise/clean-and-simple-ingredients.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-product-families/hi-maize-resistant-starch.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/company/expertise/clean-and-simple-ingredients.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/categories/food-ingredients.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/news-events/events/better-snacking-from-day-to-night.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/categories/biomaterials/agriculture.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/ingredionjapan.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/categories/food-ingredients/baked-goods.html",
+      "repCount": 7,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/beverages/brewing-and-alcoholic-beverages.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/consumer-challenges.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/legal/terminos-y-condiciones.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/Integridade-etica-e-conformidade-nos-negocios/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/integridad-empresarial-etica-y-cumplimiento/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/noticias-y-eventos/eventos/ingredion-sa-colamiqc.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-troubleshooting/reduce-breakage-and-improve-the-eating-experience.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/corporate-responsibility.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/legal/terms-and-conditions.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/categories/beauty-home/bath-and-hygiene.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/executive-leadership-team.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/starches.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/aboutstevia/turnovernewleaf.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/aboutstevia/aboutstevia/aboutstevia.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/executive-leadership-team.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct/care-first.html",
+      "repCount": 6,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/snacking-inspiration/beet-crackers.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/innovation-with-idea-labs/snacking-innovation-community/snacking-troubleshooting/grittiness-gluten-free-cookies.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/categorias/bebidas/alternativas-lacteas.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/desafios/Juntos-enfocados-en-cada-momento/Cuando-su-rutina-comienza.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/ingredientes/familia-de-productos/purecircle-clean-taste-solutions/bakery.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/bebidas/cafes-e-chas.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/Ingredientes-por-familia/purecircle-clean-taste-solutions/bakery.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/executive-leadership-team.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/bebidas/cafes-y-tes.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo/edulcorantes/polioles.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/conoce-ingredion.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/conoce-ingredion/corporate-responsibility.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/categories/beauty-home.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges/sugar-reduction-specialty-sweeteners/taste-sweet-liberation-assets/Dairy-taste-sweet-liberation.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration/beet-crackers.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/categories/beverage-solutions/alcoholic-beverages.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/executive-leadership-team.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/categories/beverage-solutions/alcoholic-beverages.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration/beignets.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/categories/food-ingredients.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/company/expertise/clean-and-simple-ingredients.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-product-families/purecircle-clean-taste-solutions/bakery.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion.html",
+      "repCount": 5,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/paper-corrugating/papermaking/board-solutions.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/solving-a-challenge/challenges.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/starches/potato-starch.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/sweeteners/stevia.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/legal/procurement-terms-and-conditions/purchase-of-goods-us.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking/snacking-inspiration.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/diversity-equity-inclusion.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/cuidados-pessoais-e-da-casa/Cuidados-com-o-cabelo.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/papel-e-corrugado/papel/embalagens.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/desafios.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-inspiration.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-inspiration/Bolo-de-caneca.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/edulcorantes/stevia.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/cuidado-personal-y-del-hogar/Cuidados-del-cabello.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/papel-y-corrugado/papel/embalajes.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration/snack-salado-proteico.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/edulcorantes/polioles.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/almidones/almidon-de-papa.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-familia/enliten-reb-m.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration/snack-salado-proteico.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo/almidones/almidon-de-papa.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/categories/beverage-solutions/alcoholic-beverages.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/categories/food-ingredients.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/snacking/snacking-inspiration.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/categories/beauty-home1/hair-care.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/aboutstevia/stevia-science-research/metabolism.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/ingredionjapan/_.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/categories/beverage-solutions.html",
+      "repCount": 4,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/food/dairy/yogurt-and-cultured-products.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/food/savory/soups-sauces-gravies.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/categories/paper-corrugating/oil-grease-resistant.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/expertise/food-service/cost-savings.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/company/suppliers/all-life-partners.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us/legal/sales-terms-and-conditions/sales-terms-and-conditions-us.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/desafios.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/ingredientes/tipos-de-ingredientes.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/es-mx/ingredientes/tipos-de-ingredientes/almidones/almidon-de-papa.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/alimentos/lacteos/queijos.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/categorias/papel-e-corrugado/corrugado.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/programa-catalyst.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/amidos/fecula-de-batata.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/pt-br/redirect-pages/redirect-sustainability-report-pdf.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos/lacteos/helados-postres-congelados.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/categorias/papel-y-corrugado/corrugado.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/desafios.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/Programa_CATALYST.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/desafios.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/sa/es-ar/noticias-y-eventos/noticias/ingredion-sa-colamiqc.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/flours/pulse-flours.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/starches/modified-starch.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/emea/en-uk/company/suppliers/all-life-partners.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/solving-a-challenge/challenges.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/sc-cn/solving-a-challenge/resource-library/trend-video-ltt-mochi.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/challenges.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/solving-a-challenge/innovation-with-idea-labs/catalyst-programme.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/starches/functional-native-starches.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/sweeteners/non-nutritive.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-sg/company/suppliers/all-life-partners.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/categories/industrial-and-biomaterials/corrugating.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/solving-a-challenge/challenges.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/starches/starchbasic/nativestarch.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/challenges.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types/starches/potato-starch.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/apac/en-au/news-events/events/better-snacking-from-day-to-night.html",
+      "repCount": 3,
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.ingredion.com/na/en-us.html",
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/company/suppliers/all-life-partners/everyday-life.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/categorias/papel-corrugado/corrugado.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking/snacking-troubleshooting/resolvamos-los-problemas-mas-comunes-de-la-industria-con-nuestros-expertos.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/idea-labs/snacking-center-of-experience/snacking-knowledge/faqs-crackers.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/noticias-e-eventos/noticias.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/noticias-y-eventos/noticias.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/categorias/papel-y-corrugado/corrugado.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/innovacion-con-idea-labs/Programa_CATALYST.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/innovacion-con-idea-labs/snacking/snacking-inspiration.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/nuestros-ingredientes/ingredientes-por-tipo.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/innovation-with-idea-labs/snacking.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/sweeteners/stevia.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/news-events/news.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/categories/industrial-and-biomaterials/corrugating.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-types.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-types/starches/potato-starch.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/news-events/events.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/legal/disclaimer.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/categories/paper-and-corrugating/corrugating.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/news-events/events.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/legal/disclaimer.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/categories/food-ingredients/meat-seafood-poultry/plant-based-meat.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/news-events/events.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/legal/disclaimer.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/categories/industrial-and-biomaterials/corrugating.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/solving-a-challenge/innovation-with-idea-labs/snacking.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/ingredients/ingredient-types/sweeteners/non-nutritive.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/news-events/events.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/legal/disclaimer.html",
-      "repCount": 2
+      "repCount": 2,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/categories/food/meat-seafood-poultry/meats.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/categories/beauty-home/hair-care/hair-styling.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-types/tapioca/tapioca-starch.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/ingredients/ingredient-product-families/vitessence-plant-protein-isolates/protein-isolates-for-plant-based-dairy.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/company/meet-ingredion/inclusion-and-belonging/business-resource-groups.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/en-us/company/expertise/texturants/lets-talk-texture.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/resolviendo-desafios/innovando-con-idealabs/snacking/snacking-knowledge/churritos-con-harina-de-quinoa-y-proteina-de-lenteja.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/diversity-equity-inclusion/business-resource-groups.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/na/es-mx/compania/conoce-ingredion/sustentabilidad/esg-strategy-solutions.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/solucione-os-desafios/desafios/saude-digestiva/fibras.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/gomas-hidrocoloides/TEXTRA-Gum-3010.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/tapioca/amido-de-tapioca.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/ingredientes/ingredientes-por-tipo/encapsulantes-e-emulsificantes/ticaloid-acacia-max.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/Integridade-etica-e-conformidade-nos-negocios/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/diversidade-equidade-e-inclusao/grupo-de-recursos-humanos.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/pt-br/institucional/conheca-ingredion/Sustentabilidade/esg-strategy-solutions.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/categorias/alimentos/panificados/PRECISA_BAKE_55.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/resuelve-desafios/desafios/salud-digestiva/el_mundo_de_las_fibras.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/gomas-hidrocoloides/TEXTRA_Gum_3010.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/proteinas-a-base-de-plantas/recetarios_harinas_de_leguminosas.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/tapioca/tapioca-starch.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/nuestros-ingredientes/ingredientes-por-tipo/encapsulantes-emulsificantes/Ticaloid.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/integridad-empresarial-etica-y-cumplimiento/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-co/nuestra-compania/conoce-ingredion/diversidad-equidad-e-Inclusion/grupos-de-recursos-empresariales.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/resolver-desafios/desafios/salud-digestiva/el-mundo-de-las-fibras.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/nuestra-compania/conoce-ingredion/sustentabilidad/esg-strategy-solutions.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/sa/es-ar/noticias-y-eventos/noticias.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/categories/beauty-home/hair-care/hair-styling.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/challenges/sugar-reduction-specialty-sweeteners/taste-sweet-liberation-assets.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/solving-a-challenge/resource-library/succulent-chicken-strips/vegan-yogurt.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/ingredients/ingredient-types/tapioca/tapioca-starch.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/company/meet-ingredion/diversity-equity-inclusion/business-resource-groups.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/emea/en-uk/company/expertise/texturants/lets-talk-texture.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/ingredients/ingredient-types/tapioca/tapioca-starches.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/sc-cn/company/meet-ingredion/diversity-equity-inclusion/business-resource-groups.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/categories/food-ingredients/meat-seafood-poultry/meats.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/categories/beauty-home/hair-care/hair-styling.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/ingredients/ingredient-types/tapioca/tapioca-starches.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/company/meet-ingredion/diversity-equity-inclusion/business-resource-groups.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/company/expertise/plant-based-proteins/plant-the-future.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-sg/company/expertise/texturants/lets-talk-texture.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/ingredients/ingredient-types/tapioca/tapioca-starches.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/diversity-equity-inclusion1/business-resource-groups1.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/ja-jp/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/categories/food-ingredients/meat-seafood-poultry/meats.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/sustainability/esg-strategy-solutions.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/business-integrity-ethics-compliance/code-of-conduct.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/company/meet-ingredion/diversity-equity-inclusion/business-resource-groups.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/company/expertise/plant-based-proteins/plant-the-future.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     },
     {
       "url": "https://www.ingredion.com/apac/en-au/company/expertise/texturisers/lets-talk-texture.html",
-      "repCount": 1
+      "repCount": 1,
+      "source": "SITEMAP"
     }
   ],
   "crawlOptions": {
@@ -1460,5 +1835,5 @@
     "keepHash": false,
     "logger": {}
   },
-  "method": "SITEMAP"
+  "source": "SITEMAP"
 }
