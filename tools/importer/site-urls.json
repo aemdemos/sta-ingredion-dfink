@@ -1,0 +1,20 @@
+{
+  "originUrl": "https://www.ingredion.com",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.ingredion.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.ingredion.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. fetch failed"
+    }
+  ]
+}
